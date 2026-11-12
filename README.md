@@ -21,6 +21,7 @@ Funcions - Exercici 1
 3. Què passaria si eliminéssim el return? La funció no retornaria el resultat i la variable preu tindria el valor None.
 
 Funcions - Exercici 5
+
 4. Quina diferència hi ha entre print() i return?
 
 print() serveix per mostrar informació per pantalla, mentre que return serveix per retornar un valor d'una funció per poder utilitzar-lo després.
